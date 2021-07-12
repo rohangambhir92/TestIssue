@@ -6,7 +6,7 @@
 	<artifactId>demosampleapplication</artifactId>
 	<packaging>war</packaging>
 	<version>1.1.0-SNAPSHOT</version>
-	<name>Devops Sample Application 3</name>
+	<name>Devops Sample Application 4</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
